@@ -1,0 +1,801 @@
+[
+  {
+    "title": "封面｜桃園流",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-01.webp",
+    "thumb": "assets/thumb-01.webp",
+    "kind": "cover",
+    "panels": [
+      {
+        "src": "assets/scenes/p01-0.webp",
+        "y": 0.0,
+        "height": 0.285,
+        "art": true
+      },
+      {
+        "src": "assets/scenes/p01-1.webp",
+        "y": 0.285,
+        "height": 0.1,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p01-2.webp",
+        "y": 0.385,
+        "height": 0.1385,
+        "art": true
+      },
+      {
+        "src": "assets/scenes/p01-3.webp",
+        "y": 0.5235,
+        "height": 0.1,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p01-4.webp",
+        "y": 0.6235,
+        "height": 0.1385,
+        "art": true
+      },
+      {
+        "src": "assets/scenes/p01-5.webp",
+        "y": 0.762,
+        "height": 0.1,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p01-6.webp",
+        "y": 0.862,
+        "height": 0.138,
+        "art": true
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-a1.webp",
+    "spriteIndex": 0,
+    "spritePages": 4
+  },
+  {
+    "title": "關於桃園流",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-02.webp",
+    "thumb": "assets/thumb-02.webp",
+    "kind": "story",
+    "panels": [
+      {
+        "src": "assets/scenes/p02-0.webp",
+        "y": 0.0,
+        "height": 0.09,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p02-1.webp",
+        "y": 0.09,
+        "height": 0.4,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p02-2.webp",
+        "y": 0.49,
+        "height": 0.51,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-a1.webp",
+    "spriteIndex": 1,
+    "spritePages": 4
+  },
+  {
+    "title": "交通與展區地圖｜中文",
+    "ratio": 1.4600010873584885,
+    "src": "assets/page-03.webp",
+    "thumb": "assets/thumb-03.webp",
+    "kind": "map",
+    "panels": [],
+    "photos": [],
+    "sprite": "assets/sprites/maps-wide.webp",
+    "spriteIndex": 0,
+    "spritePages": 2
+  },
+  {
+    "title": "交通與展區地圖｜English",
+    "ratio": 1.4600010873584885,
+    "src": "assets/page-04.webp",
+    "thumb": "assets/thumb-04.webp",
+    "kind": "map",
+    "panels": [],
+    "photos": [],
+    "sprite": "assets/sprites/maps-wide.webp",
+    "spriteIndex": 1,
+    "spritePages": 2
+  },
+  {
+    "title": "中壢展區地圖｜中文",
+    "ratio": 1.0,
+    "src": "assets/page-05.webp",
+    "thumb": "assets/thumb-05.webp",
+    "kind": "map",
+    "panels": [],
+    "photos": [],
+    "sprite": "assets/sprites/maps-square.webp",
+    "spriteIndex": 0,
+    "spritePages": 2
+  },
+  {
+    "title": "中壢展區地圖｜English",
+    "ratio": 1.0,
+    "src": "assets/page-06.webp",
+    "thumb": "assets/thumb-06.webp",
+    "kind": "map",
+    "panels": [],
+    "photos": [],
+    "sprite": "assets/sprites/maps-square.webp",
+    "spriteIndex": 1,
+    "spritePages": 2
+  },
+  {
+    "title": "青埔展區總覽",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-07.webp",
+    "thumb": "assets/thumb-07.webp",
+    "kind": "area",
+    "panels": [
+      {
+        "src": "assets/scenes/p07-0.webp",
+        "y": 0.0,
+        "height": 0.16,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p07-1.webp",
+        "y": 0.16,
+        "height": 0.52,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p07-2.webp",
+        "y": 0.68,
+        "height": 0.32,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-a1.webp",
+    "spriteIndex": 2,
+    "spritePages": 4
+  },
+  {
+    "title": "青埔展區｜A1–A2",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-08.webp",
+    "thumb": "assets/thumb-08.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p08-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p08-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo08-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0095,
+        "width": 0.5124875124875125,
+        "height": 0.171
+      },
+      {
+        "src": "assets/scenes/photo08-1.webp",
+        "x": 0.4875124875124875,
+        "y": 0.514,
+        "width": 0.5124875124875125,
+        "height": 0.1595
+      }
+    ],
+    "sprite": "assets/sprites/portrait-a1.webp",
+    "spriteIndex": 3,
+    "spritePages": 4
+  },
+  {
+    "title": "青埔展區｜A3–A4",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-09.webp",
+    "thumb": "assets/thumb-09.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p09-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p09-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo09-0.webp",
+        "x": 0.4905094905094905,
+        "y": 0.009,
+        "width": 0.5094905094905094,
+        "height": 0.1715
+      },
+      {
+        "src": "assets/scenes/photo09-1.webp",
+        "x": 0.48951048951048953,
+        "y": 0.4995,
+        "width": 0.5104895104895105,
+        "height": 0.1885
+      }
+    ],
+    "sprite": "assets/sprites/portrait-a2.webp",
+    "spriteIndex": 0,
+    "spritePages": 3
+  },
+  {
+    "title": "青埔展區｜A5–A6",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-10.webp",
+    "thumb": "assets/thumb-10.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p10-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p10-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo10-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0,
+        "width": 0.5124875124875125,
+        "height": 0.1895
+      },
+      {
+        "src": "assets/scenes/photo10-1.webp",
+        "x": 0.4905094905094905,
+        "y": 0.509,
+        "width": 0.5094905094905094,
+        "height": 0.1695
+      }
+    ],
+    "sprite": "assets/sprites/portrait-a2.webp",
+    "spriteIndex": 1,
+    "spritePages": 3
+  },
+  {
+    "title": "青埔展區｜A7–A8",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-11.webp",
+    "thumb": "assets/thumb-11.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p11-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p11-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo11-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0155,
+        "width": 0.5124875124875125,
+        "height": 0.1565
+      },
+      {
+        "src": "assets/scenes/photo11-1.webp",
+        "x": 0.4905094905094905,
+        "y": 0.5,
+        "width": 0.5094905094905094,
+        "height": 0.1875
+      }
+    ],
+    "sprite": "assets/sprites/portrait-a2.webp",
+    "spriteIndex": 2,
+    "spritePages": 3
+  },
+  {
+    "title": "青埔展區｜A9–A10",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-12.webp",
+    "thumb": "assets/thumb-12.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p12-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p12-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo12-0.webp",
+        "x": 0.4905094905094905,
+        "y": 0.0,
+        "width": 0.5094905094905094,
+        "height": 0.1875
+      },
+      {
+        "src": "assets/scenes/photo12-1.webp",
+        "x": 0.4885114885114885,
+        "y": 0.5,
+        "width": 0.5114885114885115,
+        "height": 0.1875
+      }
+    ],
+    "sprite": "assets/sprites/portrait-b1.webp",
+    "spriteIndex": 0,
+    "spritePages": 4
+  },
+  {
+    "title": "青埔展區｜A11–A12",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-13.webp",
+    "thumb": "assets/thumb-13.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p13-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p13-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo13-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0,
+        "width": 0.5124875124875125,
+        "height": 0.1895
+      },
+      {
+        "src": "assets/scenes/photo13-1.webp",
+        "x": 0.4875124875124875,
+        "y": 0.5175,
+        "width": 0.5124875124875125,
+        "height": 0.161
+      }
+    ],
+    "sprite": "assets/sprites/portrait-b1.webp",
+    "spriteIndex": 1,
+    "spritePages": 4
+  },
+  {
+    "title": "青埔展區｜A13–A14",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-14.webp",
+    "thumb": "assets/thumb-14.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p14-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p14-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo14-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0,
+        "width": 0.5124875124875125,
+        "height": 0.1935
+      },
+      {
+        "src": "assets/scenes/photo14-1.webp",
+        "x": 0.4875124875124875,
+        "y": 0.5065,
+        "width": 0.5124875124875125,
+        "height": 0.181
+      }
+    ],
+    "sprite": "assets/sprites/portrait-b1.webp",
+    "spriteIndex": 2,
+    "spritePages": 4
+  },
+  {
+    "title": "中壢展區總覽",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-15.webp",
+    "thumb": "assets/thumb-15.webp",
+    "kind": "area",
+    "panels": [
+      {
+        "src": "assets/scenes/p15-0.webp",
+        "y": 0.0,
+        "height": 0.16,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p15-1.webp",
+        "y": 0.16,
+        "height": 0.58,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p15-2.webp",
+        "y": 0.74,
+        "height": 0.26,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-b1.webp",
+    "spriteIndex": 3,
+    "spritePages": 4
+  },
+  {
+    "title": "中壢展區｜B1–B2",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-16.webp",
+    "thumb": "assets/thumb-16.webp",
+    "kind": "exhibit",
+    "panels": [
+      {
+        "src": "assets/scenes/p16-0.webp",
+        "y": 0.0,
+        "height": 0.5,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p16-1.webp",
+        "y": 0.5,
+        "height": 0.5,
+        "art": false
+      }
+    ],
+    "photos": [
+      {
+        "src": "assets/scenes/photo16-0.webp",
+        "x": 0.4875124875124875,
+        "y": 0.0315,
+        "width": 0.5124875124875125,
+        "height": 0.1425
+      },
+      {
+        "src": "assets/scenes/photo16-1.webp",
+        "x": 0.4875124875124875,
+        "y": 0.526,
+        "width": 0.5124875124875125,
+        "height": 0.189
+      }
+    ],
+    "sprite": "assets/sprites/portrait-b2.webp",
+    "spriteIndex": 0,
+    "spritePages": 3
+  },
+  {
+    "title": "城市展區｜C1–C2",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-17.webp",
+    "thumb": "assets/thumb-17.webp",
+    "kind": "city",
+    "panels": [
+      {
+        "src": "assets/scenes/p17-0.webp",
+        "y": 0.0,
+        "height": 0.3,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p17-1.webp",
+        "y": 0.3,
+        "height": 0.35,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p17-2.webp",
+        "y": 0.65,
+        "height": 0.35,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-b2.webp",
+    "spriteIndex": 1,
+    "spritePages": 3
+  },
+  {
+    "title": "城市展區｜C3–C5",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-18.webp",
+    "thumb": "assets/thumb-18.webp",
+    "kind": "city",
+    "panels": [
+      {
+        "src": "assets/scenes/p18-0.webp",
+        "y": 0.0,
+        "height": 0.33,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p18-1.webp",
+        "y": 0.33,
+        "height": 0.33,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p18-2.webp",
+        "y": 0.66,
+        "height": 0.34,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-b2.webp",
+    "spriteIndex": 2,
+    "spritePages": 3
+  },
+  {
+    "title": "設計響應｜D1–D4",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-19.webp",
+    "thumb": "assets/thumb-19.webp",
+    "kind": "events",
+    "panels": [
+      {
+        "src": "assets/scenes/p19-0.webp",
+        "y": 0.0,
+        "height": 0.25,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p19-1.webp",
+        "y": 0.25,
+        "height": 0.19,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p19-2.webp",
+        "y": 0.44,
+        "height": 0.19,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p19-3.webp",
+        "y": 0.63,
+        "height": 0.19,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p19-4.webp",
+        "y": 0.82,
+        "height": 0.18,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-c.webp",
+    "spriteIndex": 0,
+    "spritePages": 5
+  },
+  {
+    "title": "設計響應｜D5–D10",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-20.webp",
+    "thumb": "assets/thumb-20.webp",
+    "kind": "events",
+    "panels": [
+      {
+        "src": "assets/scenes/p20-0.webp",
+        "y": 0.0,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p20-1.webp",
+        "y": 0.1665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p20-2.webp",
+        "y": 0.3335,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p20-3.webp",
+        "y": 0.5,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p20-4.webp",
+        "y": 0.6665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p20-5.webp",
+        "y": 0.8335,
+        "height": 0.1665,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-c.webp",
+    "spriteIndex": 1,
+    "spritePages": 5
+  },
+  {
+    "title": "設計響應｜D11–D16",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-21.webp",
+    "thumb": "assets/thumb-21.webp",
+    "kind": "events",
+    "panels": [
+      {
+        "src": "assets/scenes/p21-0.webp",
+        "y": 0.0,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p21-1.webp",
+        "y": 0.1665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p21-2.webp",
+        "y": 0.3335,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p21-3.webp",
+        "y": 0.5,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p21-4.webp",
+        "y": 0.6665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p21-5.webp",
+        "y": 0.8335,
+        "height": 0.1665,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-c.webp",
+    "spriteIndex": 2,
+    "spritePages": 5
+  },
+  {
+    "title": "設計響應｜D17–D22",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-22.webp",
+    "thumb": "assets/thumb-22.webp",
+    "kind": "events",
+    "panels": [
+      {
+        "src": "assets/scenes/p22-0.webp",
+        "y": 0.0,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p22-1.webp",
+        "y": 0.1665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p22-2.webp",
+        "y": 0.3335,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p22-3.webp",
+        "y": 0.5,
+        "height": 0.1665,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p22-4.webp",
+        "y": 0.6665,
+        "height": 0.167,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p22-5.webp",
+        "y": 0.8335,
+        "height": 0.1665,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-c.webp",
+    "spriteIndex": 3,
+    "spritePages": 5
+  },
+  {
+    "title": "展覽資訊・封底",
+    "ratio": 0.5000008612740504,
+    "src": "assets/page-23.webp",
+    "thumb": "assets/thumb-23.webp",
+    "kind": "closing",
+    "panels": [
+      {
+        "src": "assets/scenes/p23-0.webp",
+        "y": 0.0,
+        "height": 0.385,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p23-1.webp",
+        "y": 0.385,
+        "height": 0.295,
+        "art": false
+      },
+      {
+        "src": "assets/scenes/p23-2.webp",
+        "y": 0.68,
+        "height": 0.32,
+        "art": false
+      }
+    ],
+    "photos": [],
+    "sprite": "assets/sprites/portrait-c.webp",
+    "spriteIndex": 4,
+    "spritePages": 5
+  }
+]

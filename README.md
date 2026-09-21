@@ -1,1 +1,5 @@
-# tyccc-ethics.github.io
+# 桃園流｜2026 台灣設計展線上摺頁
+
+手機滿版、具翻頁與頁面動畫的線上摺頁。
+
+此儲存庫以 GitHub Pages 發布，網站入口為 `index.html`。
